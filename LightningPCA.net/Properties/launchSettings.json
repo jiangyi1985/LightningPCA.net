@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "LightningPCA": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../examples/10x2.txt"
+    },
+    "chr21": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../examples/chr21.geno_1043x9645.txt_data"
+    },
+    "all.geno": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../examples/all.geno_1043x644258.txt_data"
+    },
+    "chr1": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../examples/chr1.geno_1043x49639.txt_data"
+    }
+  }
+}
